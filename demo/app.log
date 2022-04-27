@@ -1,0 +1,18 @@
+18:51:14,930 INFO  [com.example.demo.DemoApplication] - ***************************************************************************
+ 18:51:42,836 INFO  [com.example.demo.DemoApplication] - ***************************************************************************
+ 18:52:55,542 INFO  [com.example.demo.DemoApplication] - ***************************************************************************
+ 18:52:55,543 ERROR [com.example.demo.DemoApplication] - it is an error message
+ 18:53:14,296 INFO  [com.example.demo.DemoApplication] - ***************************************************************************
+ 18:53:14,297 ERROR [com.example.demo.DemoApplication] - it is an error message
+ 18:53:43,346 INFO  [com.example.demo.DemoApplication] - ***************************************************************************
+ 18:53:43,348 ERROR [com.example.demo.DemoApplication] - it is an error message
+ 18:54:05,403 INFO  [com.example.demo.DemoApplication] - ***************************************************************************
+ 18:54:05,404 ERROR [com.example.demo.DemoApplication] - it is an error message
+ 18:59:59,960 INFO  [com.example.demo.DemoApplication] - ***************************************************************************
+ 18:59:59,963 ERROR [com.example.demo.DemoApplication] - it is an error message
+ 19:01:06,661 ERROR [com.example.demo.DemoApplication] - it is an error message
+ 19:03:46,641 ERROR [com.example.demo.DemoApplication] - it is an error message
+ 19:05:32,862 ERROR [com.example.demo.DemoApplication] - it is an error message
+ 19:06:28,967 INFO  [com.example.demo.DemoApplication] - ***************************************************************************
+ 19:06:28,969 ERROR [com.example.demo.DemoApplication] - it is an error message
+ 
